@@ -38,11 +38,11 @@ and steering toward Artificial Intelligence.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,lua,js,html,css&theme=dark" alt="Languages" />
 
 **Tools & Environment**
 
-<img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode,blender&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,neovim,bash,vscode,blender&theme=dark" alt="Tools" />
 
 </div>
 
